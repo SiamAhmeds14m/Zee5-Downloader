@@ -12,7 +12,7 @@ If you find any bugs, report at @TroJanzSupport
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TroJanzHEX/Zee5-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/dlbot/Zee5-Downloader)
 
 #### Run in your VPS
 
@@ -28,7 +28,7 @@ sudo apt install ffmpeg
 * Run the app
 
 ```sh
-git clone https://github.com/TroJanzHEX/Zee5-Downloader
+git clone https://github.com/Zee5-DL/Zee5-Downloader
 cd Zee5-Downloader
 pip3 install -r requirements.txt
 python3 bot.py
